@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------
+Powershell Script
+----------------------------------------------------------------------------------
+
+@echo off
+title Powershell Joseph Telaak's Powershell
+color 0a
+echo Joseph Telaak's Powershell
+echo Copyright (C) 2018 Joseph Telaak
+echo.
+cd ..
+powershell
+clear
+echo.
+:Loop
+set /P the="%cd%>"
+%the%
+echo.
+goto loop
+
+----------------------------------------------------------------------------------
+Command Prompt Script
+----------------------------------------------------------------------------------
+
+@echo off
+title Joseph Telaak's Command Prompt
+ver
+echo Copyright (c) 2018 Joseph Telaak
+color 0a
+cd ..
+echo.
+:Loop
+set /P the="%cd%>"
+%the%
+echo.
+goto loop

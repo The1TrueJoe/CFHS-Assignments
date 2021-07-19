@@ -1,0 +1,26 @@
+Array Total 470
+Array Element Count 24
+Array Average 19.583333333333332
+
+Row Total for row 0=60
+Row Total for row 1=71
+Row Total for row 2=77
+Row Total for row 3=88
+Row Total for row 4=54
+Row Total for row 5=120
+col Total for col 0=30
+col Total for col 1=12
+col Total for col 2=365
+col Total for col 3=63
+Highest in row 0=45
+Highest in row 1=55
+Highest in row 2=60
+Highest in row 3=70
+Highest in row 4=35
+Highest in row 5=100
+Lowest in row 0=2
+Lowest in row 1=2
+Lowest in row 2=2
+Lowest in row 3=2
+Lowest in row 4=2
+Lowest in row 5=0

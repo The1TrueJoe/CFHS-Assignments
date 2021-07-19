@@ -1,0 +1,8 @@
+public class Adder 
+{ 
+private int aValue, bValue, result; 
+public void setA(int a) { aValue = a; } 
+public void setB(int b) { bValue = b; } 
+public void process() { result = aValue + bValue; } 
+public int getResult() { return result; } 
+} 
